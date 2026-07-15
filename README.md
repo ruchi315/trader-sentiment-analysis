@@ -34,19 +34,18 @@ This project merges **211,224 trade executions** from 32 Hyperliquid accounts wi
 ## Visualizations
 
 **Avg PnL & win rate by sentiment**
-![PnL and win rate](charts/chart1_pnl_winrate.png)
-
+![PnL and win rate](chart1_pnl_winrate.png)
 **Trading volume & position size by sentiment**
-![Volume and size](charts/chart2_volume_size.png)
+![Volume and size](chart2_volume_size.png)
 
 **Cumulative PnL vs. Fear/Greed Index over time**
-![Cumulative PnL](charts/chart3_cumulative_pnl_sentiment.png)
+![Cumulative PnL](chart3_cumulative_pnl_sentiment.png)
 
 **PnL distribution by sentiment**
-![PnL distribution](charts/chart4_pnl_distribution.png)
+![PnL distribution](chart4_pnl_distribution.png)
 
 **Long vs. short positions opened by sentiment**
-![Long vs short](charts/chart5_long_short.png)
+![Long vs short](chart5_long_short.png)
 
 ## Methodology
 
